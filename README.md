@@ -1,11 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5FD3FF&center=true&vCenter=true&width=600&lines=Sumit+Singh+Rana;Aspiring+SWE+%C2%B7+Problem+Solver;Open+to+Internships)
 
 [![LeetCode](https://img.shields.io/badge/-LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sumitrana1020/)
-
 [![GitHub](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitrana1020)
-
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-singh-rana-4a8110278)
-
 [![Email](https://img.shields.io/badge/-EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitsinghr26@gmail.com)
 
 ---
@@ -25,7 +22,7 @@
 **CS Fundamentals:** Data Structures & Algorithms · Theory of Computation · OOP
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### `> Projects`
@@ -36,8 +33,6 @@
 
 ---
 
-<p align="center"><i>Always learning, always building.</i></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sumitrana1020&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sumitrana1020&theme=merko&hide_border=false)<br/>
@@ -47,4 +42,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center"><i>Always learning, always building.</i></p>
 
