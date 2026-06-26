@@ -21,13 +21,11 @@
 **Web:** HTML · CSS · React · Node.js  
 **CS Fundamentals:** Data Structures & Algorithms · Theory of Computation · OOP
 
-### `> ls projects/`
+### `> Projects/`
 
 | Project | Description | Tech |
 |---|---|---|
-| **[MiniSearchEngine]** | One-line description of what it does | Tech stack |
-| **[Project Name]** | One-line description of what it does | Tech stack |
-| **[Project Name]** | One-line description of what it does | Tech stack |
+| **[MiniSearchEngine]** | Searches Real Time Feeds | TECH | (IN DEVELOPMENT)
 
 ---
 
