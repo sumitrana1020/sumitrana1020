@@ -47,9 +47,27 @@
 
 ## 🚧 Projects
 
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| **[SmartSearch AI](https://github.com/sumitrana1020/SmartSearchAI)** | Full-stack AI-powered search engine — real-time web search with AI-generated, cited summaries | C++ (Crow) · JS · SQLite · Gemini API | 🟢 In Development |
+### 🔎 [SmartSearch AI](https://github.com/sumitrana1020/SmartSearchAI)
+*Full-stack AI-powered search engine — real-time web search with AI-generated, cited summaries.*
+
+**Tech:** C++ (Crow) · JavaScript · SQLite · Gemini API · Serper API
+
+**Workflow:**
+┌──────────────────┐        REST/JSON          ┌──────────────────────┐
+│   Frontend       │ ───────────────────────▶ │   Backend (C++ /      │
+│   HTML/CSS/JS    │ ◀─────────────────────── │   Crow framework)     │
+└──────────────────┘                           └──────────┬────────────┘
+                                                          │
+                          ┌─────────────────────────────────┼─────────────────────────────────┐
+                          ▼                                 ▼                                 ▼
+                  ┌───────────────┐                ┌────────────────┐                ┌─────────────────┐
+                  │ Serper.dev API │               │ Google Gemini  │                │ SQLite          │
+                  │ (web search)   │               │ API (summary)  │                │ (history/marks) │
+                  └───────────────┘                └────────────────┘                └─────────────────┘
+
+**Complexity:** Search retrieval is bounded by the external API (`O(1)` per call from the app's side); citation-marker parsing and rendering run in `O(n)` over the summary length.
+
+**Status:** 🟢 In Development
 
 ---
 
