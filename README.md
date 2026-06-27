@@ -52,18 +52,9 @@
 
 **Tech:** C++ (Crow) · JavaScript · SQLite · Gemini API · Serper API
 
-**Workflow:**
-┌──────────────────┐        REST/JSON          ┌──────────────────────┐
-│   Frontend       │ ───────────────────────▶ │   Backend (C++ /      │
-│   HTML/CSS/JS    │ ◀─────────────────────── │   Crow framework)     │
-└──────────────────┘                           └──────────┬────────────┘
-                                                          │
-                          ┌─────────────────────────────────┼─────────────────────────────────┐
-                          ▼                                 ▼                                 ▼
-                  ┌───────────────┐                ┌────────────────┐                ┌─────────────────┐
-                  │ Serper.dev API │               │ Google Gemini  │                │ SQLite          │
-                  │ (web search)   │               │ API (summary)  │                │ (history/marks) │
-                  └───────────────┘                └────────────────┘                └─────────────────┘
+## 🏗️ Architecture
+
+   ![Architecture Diagram](assets/architecture-diagram.svg)
 
 **Complexity:** Search retrieval is bounded by the external API (`O(1)` per call from the app's side); citation-marker parsing and rendering run in `O(n)` over the summary length.
 
