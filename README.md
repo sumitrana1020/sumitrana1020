@@ -63,6 +63,7 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=sumitrana1020&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -70,7 +71,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumitrana1020&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+</div>
 
 <p align="center"><i>Always learning, always building.</i></p>
 
