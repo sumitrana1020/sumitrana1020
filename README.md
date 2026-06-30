@@ -52,10 +52,6 @@
 
 **Tech:** C++ (Crow) · JavaScript · SQLite · Gemini API · Serper API
 
-## 🏗️ Architecture
-
-   ![Architecture Diagram](assets/architecture-diagram.svg)
-
 **Complexity:** Search retrieval is bounded by the external API (`O(1)` per call from the app's side); citation-marker parsing and rendering run in `O(n)` over the summary length.
 
 **Status:** 🟢 In Development
